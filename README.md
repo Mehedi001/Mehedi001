@@ -17,15 +17,6 @@
 
 - ⚡ Fun fact **I love to watch movie, I love to listen song, I love to travel.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehedihridoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedihridoy/" height="30" width="40" /></a>
-<a href="https://fb.com/iammehedihridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iammehedihridoy" height="30" width="40" /></a>
-<a href="https://dribbble.com/hmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hmehedi" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/mehedi_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mehedi_h" height="30" width="40" /></a>
-</p>
-
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi001&show_icons=true&locale=en" alt="mehedi001" /></p>
@@ -34,3 +25,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi001&show_icons=true&locale=en&layout=compact" alt="mehedi001" /></p>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehedihridoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedihridoy/" height="30" width="40" /></a>
+<a href="https://fb.com/iammehedihridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iammehedihridoy" height="30" width="40" /></a>
+<a href="https://dribbble.com/hmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hmehedi" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/mehedi_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mehedi_h" height="30" width="40" /></a>
+</p>
