@@ -25,6 +25,7 @@ I'm Mehedi Hasan Hridoy, a Frontend web developer love to work Frontend Develope
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi001&show_icons=true&locale=en&layout=compact" alt="mehedi001" /></p>
 
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
