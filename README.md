@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mehedihridoyh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MvCuxiDGcAphsmuMDN62mnZVOb3Orcn8/view?usp=sharing](https://drive.google.com/file/d/1MvCuxiDGcAphsmuMDN62mnZVOb3Orcn8/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1MvCuxiDGcAphsmuMDN62mnZVOb3Orcn8/view?usp=sharing)
 
 - ⚡ Fun fact **I love to watch movie, I love to listen song, I love to travel.**
 
