@@ -1,5 +1,7 @@
 ### Hi there !!! Welcome to my github.
 
+JavaScript TypeScript PHP Docker React.js Vue.js Alpine.js Vite Node.js jQuery Laravel WordPress Elementor Python Markdown HTML CSS3 TailwindCSS Bootstrap MySQL MariaDB SQLite Redis Netlify Cloudflare Debian Zorin Mac OS
+
 **I'm Mehedi Hasan Hridoy, a Frontend web developer love to work Frontend Developer | React | Next.js | NPM | Express.js | DaisyUI | Node.js | JavaScript | CSS3 | Tailwind CSS | MongoDB | Firebase | Responsive Design Enthusiast
 
 Passionate about crafting exceptional user experiences with React and Next.js. Proficient in NPM package management and backend development with Express.js. Skilled in UI/UX design using DaisyUI and Tailwind CSS. Experienced in building robust applications with Node.js, MongoDB, and Firebase. Committed to creating responsive and visually appealing websites.
