@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux, NextJS**
 
-- 👨‍💻 All of my projects are available at [https://mehedii.netlify.app/](https://mehedii.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://mehedii.netlify.app/">Mehedi Portfolio</a>
 
 - 💼 I’m currently open for work and employment **opportunities (remote and relocation)**
 
