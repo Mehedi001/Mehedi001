@@ -44,7 +44,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
 I'm Mehedi Hasan Hridoy, a Frontend web developer love to work Frontend Developer | React | Next.js | NPM | Express.js | DaisyUI | Node.js | JavaScript | CSS3 | Tailwind CSS | MongoDB | Firebase | Responsive Design Enthusiast Passionate about crafting exceptional user experiences with React and Next.js. Proficient in NPM package management and backend development with Express.js. Skilled in UI/UX design using DaisyUI and Tailwind CSS. Experienced in building robust applications with Node.js, MongoDB, and Firebase. Committed to creating responsive and visually appealing websites.
