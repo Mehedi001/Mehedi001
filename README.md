@@ -62,10 +62,6 @@ I'm Mehedi Hasan Hridoy, a Frontend web developer love to work Frontend Develope
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi001&show_icons=true&locale=en" alt="mehedi001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi001&" alt="mehedi001" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi001&show_icons=true&locale=en&layout=compact" alt="mehedi001" /></p>
 
 <br />
