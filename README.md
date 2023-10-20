@@ -64,14 +64,12 @@ I'm Mehedi Hasan Hridoy, a Frontend web developer love to work Frontend Develope
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi001&show_icons=true&locale=en&layout=compact" alt="mehedi001" /></p>
 
-<br />
-
-<br />
-
-<h3 align="left">Connect with me:</h3>
+<div>
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mehedihridoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mhridoyy/" height="30" width="40" /></a>
 <a href="https://fb.com/iammehedihridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iammehedihridoy" height="30" width="40" /></a>
 <a href="https://dribbble.com/hmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hmehedi" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/mehedi_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mehedi_h" height="30" width="40" /></a>
 </p>
+</div>
